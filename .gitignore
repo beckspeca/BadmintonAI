@@ -1,0 +1,5 @@
+# Public portfolio allowlist. Application files must stay in the private repository.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
